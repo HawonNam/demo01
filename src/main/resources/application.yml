@@ -1,0 +1,5 @@
+sever:
+  port: 8090
+spring:
+  application:
+    name: demo01
